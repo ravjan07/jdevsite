@@ -11,7 +11,7 @@ public class Server extends Thread {
 
     @Override
     public void run() {
-        try (ServerSocket server = new ServerSocket(8088)) {
+        try (ServerSocket server = new ServerSocket(8000)) {
             while (true) {
                 Socket client = server.accept();
                 System.out.println("New Client " + client.getInetAddress());
