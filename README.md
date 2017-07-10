@@ -1,6 +1,7 @@
 # jdevsite
 Hello world
 http://www.yougetsignal.com/tools/open-ports/
+http://websystique.com/spring-4-mvc-tutorial/
 su - USER_FOOBAR -c /PATH/TO/MY_APP &
 sudo touch tomcat8
 sudo chmod 755 /etc/init.d/tomcat8 
